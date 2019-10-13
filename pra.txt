@@ -1,2 +1,2 @@
 this is first file
-git is for dev
+git is for all
