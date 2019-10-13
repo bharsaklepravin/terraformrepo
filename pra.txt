@@ -1,2 +1,6 @@
 this is first file
+<<<<<<< HEAD
 git is for all
+=======
+git version is for dev
+>>>>>>> pra.txt
